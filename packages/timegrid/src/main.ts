@@ -6,7 +6,6 @@ import { DayTimeCols, buildDayRanges } from './DayTimeCols'
 import { DayTimeColsSlicer } from './DayTimeColsSlicer'
 import { OPTION_REFINERS } from './options'
 import './options-declare'
-import './main.css'
 
 export { DayTimeCols, DayTimeColsView, TimeColsView, buildTimeColsModel, buildDayRanges, DayTimeColsSlicer, TimeColsSeg }
 export { TimeCols } from './TimeCols'
